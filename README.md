@@ -1,2 +1,3 @@
-# Informant-Issue-Tracker
-DEPRECATED - Informant is a macOS file inspector that lets you inspect files with a single click!
+## This repository is now a ghost! 👻
+### Informant was recently made open source! 🎉
+You can find the new repository here → https://github.com/tyirvine/Informant
